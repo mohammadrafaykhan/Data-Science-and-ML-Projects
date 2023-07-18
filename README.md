@@ -4,6 +4,7 @@ This repository is dedicated to showcasing various projects, code examples, and 
 
 | **S.No** | **Name**   **Type** | **Model** | **Notebook Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
+
 | 1. | Bank Data Analysis | Classification | Decision Tree  | | <br />
 | 2. | Car Price Predictor | Regression | Linear Regression | | <br />
 | 3. | Google Play Store App Rating Predictor | Analysis | EDA,Data Wrangling |  |<br />
