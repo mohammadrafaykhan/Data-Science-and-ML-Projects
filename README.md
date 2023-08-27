@@ -11,4 +11,5 @@ This repository is dedicated to showcasing various projects, code examples, and 
 | 5. | SVM and KNN Implementation | Classification | KNN,SVM | https://github.com/mohammadrafaykhan/Data-Science-and-ML-Projects/blob/main/SVM%20and%20KNN%20implementation/Python%20File.ipynb |<br />
 | 6. | Walmart Data Analysis | Regression | Linear Regression | https://github.com/mohammadrafaykhan/Data-Science-and-ML-Projects/blob/main/Walmart%20Data%20Analysis/Python%20File.ipynb | 
 | 7. | Credit Card Data Analysis | Analysis | EDA,Data Wrangling | https://github.com/mohammadrafaykhan/Data-Science-and-ML-Projects/blob/main/Credit%20Card%20Data%20Analysis/Credit%20Card%20Data.ipynb
+| 8. | Olympics Atheletes Data Analysis | Analysis | EDA,Data Wrangling |https://github.com/mohammadrafaykhan/Data-Science-and-ML-Projects/blob/main/Olympics%20Atheletes%20Data%20Analysis/Olympics%20Atheletes%20Data%20Analysis.ipynb
 
